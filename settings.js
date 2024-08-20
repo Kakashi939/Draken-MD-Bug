@@ -4,15 +4,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348086541281"
-global.ownername = "Toxxic Md"
+global.ownernomer = "22367542669"
+global.ownername = "𝒟𝒜ℛ𝒦-𝒪𝒰𝒮ℳ𝒜𝒩ℰ_×᷼×🕸️"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2348086541281'  //creator number
-global.ownername = 'Toxxic Md' //owner name
-global.botname = 'Draken Md' //name of the bot
+global.ownernumber = '22367542669'  //creator number
+global.ownername = '𝒟𝒜ℛ𝒦-𝒪𝒰𝒮ℳ𝒜𝒩ℰ_×᷼×🕸️' //owner name
+global.botname = '𝒟𝒜ℛ𝒦-_×᷼×🕸️Md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -54,7 +54,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done:  'Done successfully!',
     prem: 'Baka This Command is for Premium Users \n Now buss off',
-    admin: 'Baka \n This Command is for My owner only',
+    admin: 'Chyeng \n This Command is for My owner only',
     botAdmin: 'This Feature Can only be used If Draken Md is Admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
